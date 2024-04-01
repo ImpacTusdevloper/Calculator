@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using SupportLib;
+
+//Getting Input
+Support.Separator();
+string? inp = Support.Input("Enter equation: ");
+

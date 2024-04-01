@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "SupportLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SupportLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SupportLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SupportLib/1.0.0": {
+      "type": "project",
+      "path": "../SupportLib/SupportLib.csproj",
+      "msbuildProject": "../SupportLib/SupportLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "SupportLib >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/krishkushwaha/.nuget/packages/": {}
@@ -31,7 +50,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj": {
+              "projectPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
