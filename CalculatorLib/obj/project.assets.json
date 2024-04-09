@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj",
-      "projectName": "SupportLib",
-      "projectPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj",
+      "projectUniqueName": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/CalculatorLib.csproj",
+      "projectName": "CalculatorLib",
+      "projectPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/CalculatorLib.csproj",
       "packagesPath": "/Users/krishkushwaha/.nuget/packages/",
-      "outputPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/obj/",
+      "outputPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/krishkushwaha/.nuget/NuGet/NuGet.Config"

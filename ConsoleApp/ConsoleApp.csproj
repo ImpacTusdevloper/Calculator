@@ -2,6 +2,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SupportLib\SupportLib.csproj" />
+    <ProjectReference Include="..\..\..\C# libraries\SupportLib\SupportLib.csproj" />
+    <ProjectReference Include="..\CalculatorLib\CalculatorLib.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

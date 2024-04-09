@@ -1,0 +1,12 @@
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/bin/Debug/net8.0/CalculatorLib.deps.json
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/bin/Debug/net8.0/CalculatorLib.dll
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/bin/Debug/net8.0/CalculatorLib.pdb
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfoInputs.cache
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.AssemblyInfo.cs
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.csproj.CoreCompileInputs.cache
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.sourcelink.json
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.dll
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/refint/CalculatorLib.dll
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/CalculatorLib.pdb
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/obj/Debug/net8.0/ref/CalculatorLib.dll

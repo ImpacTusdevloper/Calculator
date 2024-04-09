@@ -16,3 +16,6 @@
 /Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
 /Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
 /Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/bin/Debug/net8.0/CalculatorLib.dll
+/Users/krishkushwaha/Projects/VS Code/C#/Calculator/ConsoleApp/bin/Debug/net8.0/CalculatorLib.pdb

@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "CalculatorLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorLib.dll": {}
+        }
+      },
       "SupportLib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -15,14 +25,20 @@
     }
   },
   "libraries": {
+    "CalculatorLib/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorLib/CalculatorLib.csproj",
+      "msbuildProject": "../CalculatorLib/CalculatorLib.csproj"
+    },
     "SupportLib/1.0.0": {
       "type": "project",
-      "path": "../SupportLib/SupportLib.csproj",
-      "msbuildProject": "../SupportLib/SupportLib.csproj"
+      "path": "../../../C# libraries/SupportLib/SupportLib.csproj",
+      "msbuildProject": "../../../C# libraries/SupportLib/SupportLib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CalculatorLib >= 1.0.0",
       "SupportLib >= 1.0.0"
     ]
   },
@@ -51,8 +67,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj": {
-              "projectPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/SupportLib/SupportLib.csproj"
+            "/Users/krishkushwaha/Projects/VS Code/C# libraries/SupportLib/SupportLib.csproj": {
+              "projectPath": "/Users/krishkushwaha/Projects/VS Code/C# libraries/SupportLib/SupportLib.csproj"
+            },
+            "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/CalculatorLib.csproj": {
+              "projectPath": "/Users/krishkushwaha/Projects/VS Code/C#/Calculator/CalculatorLib/CalculatorLib.csproj"
             }
           }
         }
